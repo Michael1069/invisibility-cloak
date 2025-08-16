@@ -2,7 +2,7 @@
 Sometimes coding feels like casting spells 🪄✨
 # 🪄 Invisibility Cloak with Python & OpenCV
 
-Ever wanted your own **Harry Potter–style invisibility cloak**?  
+## Ever wanted your own **Harry Potter–style invisibility cloak**?  
 This project uses **Python + OpenCV** to create a fun computer vision illusion where a specific colored cloak (in this case, **maroon**) makes you disappear from the camera feed. 🎥✨
 
 ---
