@@ -56,7 +56,8 @@ Tip: lighting can affect detection, so tweak `S` (saturation) and `V` (value) ra
 ## 📸 Demo
 Here’s a sample of the cloak in action:
 
-➡️ (wait ra i'll upload my video lololol)
+➡ (wait ra i'll upload my video lololol)
+
 ---
 ## 💡 Inspiration
 
