@@ -29,7 +29,7 @@ pip install opencv-python numpy
 ## ▶️ Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/invisibility-cloak.git
+   git clone https://github.com/Michael1069/invisibility-cloak.git
    cd invisibility-cloak
    ```
 2. Run the script:
