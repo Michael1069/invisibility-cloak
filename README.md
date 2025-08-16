@@ -49,7 +49,7 @@ Red: `0–10` & `170–180`
 Green: `35–85`
 Blue: `90–130`
 
-⚡ Tip: lighting can affect detection, so tweak `S` (saturation) and `V` (value) ranges if needed.
+Tip: lighting can affect detection, so tweak `S` (saturation) and `V` (value) ranges if needed.
 ---
 ## 📸 Demo
 Here’s a sample of the cloak in action:
